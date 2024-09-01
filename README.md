@@ -1,7 +1,7 @@
 # Important-Interview-Questions
 # Hare Krishna 
 
-<strong><u>Here i will be posting various interview Questions usually asked in most companies on various topics.........</u></strong>
+<strong><I>Here i will be posting various interview Questions usually asked in most companies on various topics.........</I></strong>
 
 <b>1. What are the key differences between Java 8 and Java 11? Why is it important to know these differences?</b>
 
